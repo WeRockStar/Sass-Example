@@ -1,0 +1,5 @@
+@mixin text-lg($color:#333 , $size:3em){
+	color: $color;
+	font-weight:bold;
+	font-size:$size;
+}
